@@ -1,0 +1,5 @@
+h5py
+s3fs
+boto3
+pathlib
+keras
